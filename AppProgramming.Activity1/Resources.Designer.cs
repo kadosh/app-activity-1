@@ -63,9 +63,59 @@ namespace AppProgramming.Activity1 {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _0_15_0 {
+        internal static System.Drawing.Bitmap cilidro001 {
             get {
-                object obj = ResourceManager.GetObject("_0_15_0", resourceCulture);
+                object obj = ResourceManager.GetObject("cilidro001", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cono001 {
+            get {
+                object obj = ResourceManager.GetObject("cono001", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cubo_3d {
+            get {
+                object obj = ResourceManager.GetObject("cubo_3d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Print {
+            get {
+                object obj = ResourceManager.GetObject("Print", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pyramid {
+            get {
+                object obj = ResourceManager.GetObject("pyramid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ruby_53272f15396c2222cc0f9899fd13fb9f {
+            get {
+                object obj = ResourceManager.GetObject("ruby_53272f15396c2222cc0f9899fd13fb9f", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
